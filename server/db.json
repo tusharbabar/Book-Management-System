@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self Help",
+      "year": 2018
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Co0",
+      "id": 2
+    }
+  ]
+}
